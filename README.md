@@ -3,8 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Built With](#built-with)
-* [Examples](#examples)
+* [Downloads](#downloads)
 
 ## General info
 This project uses the live currency converter API to convert the money amount to different currencies. This converter allows you to convert the amount interchangeable with USD, EUR, CHF, GBP, JPY, and CNY.
@@ -14,12 +13,9 @@ Project is created with:
 * Eclipse: 2023-06
 * JavaSE-1.8
 
-## Built With
+## Downloads
 * [json-20231013](https://github.com/stleary/JSON-java) - Use the newest relase
 * [Currency API](https://exchangeratesapi.io/) - Free accsible to the key
-
-## Examples
-
 
   
   

@@ -14,8 +14,8 @@ Project is created with:
 * JavaSE 1.8
 
 ## Built With
-* External jar: [json-20231013](#https://github.com/stleary/JSON-java) - Use the newest relase
-* [Currency API](#https://exchangeratesapi.io/) - Free accsible to the key
+* External jar: [json-20231013](https://github.com/stleary/JSON-java) - Use the newest relase
+* [Currency API](https://exchangeratesapi.io/) - Free accsible to the key
 
 ## Examples
 
